@@ -1,0 +1,12 @@
+{
+  "name": "madara-24-7-worker",
+  "version": "1.0.0",
+  "description": "MADARA 5.1 24/7 Background Worker",
+  "main": "madara-24-7-worker.js",
+  "scripts": {
+    "start": "node madara-24-7-worker.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
